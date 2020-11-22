@@ -1,8 +1,8 @@
-[flag]
-other = "🇨🇳"
-
 [ellipsis]
 other = "……"
+
+[colon]
+other = "："
 
 [minute]
 one = "分钟"
@@ -20,14 +20,20 @@ other = "上一页"
 [nextPage]
 other = "下一页"
 
+[copy]
+other = "复制"
+
+[copied]
+other = "已复制"
+
 [copyrightAuthor]
-other = "作者："
+other = "作者"
 
 [copyrightLink]
-other = "链接："
+other = "链接"
 
 [copyrightLicense]
-other = "版权："
+other = "许可"
 
 [shareOn]
 other = "分享："
